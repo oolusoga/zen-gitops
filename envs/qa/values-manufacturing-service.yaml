@@ -3,7 +3,7 @@ replicaCount: 1
 fullnameOverride: manufacturing-service
 
 image:
-  repository: <AWS_ACCOUNT_ID>.dkr.ecr.us-east-1.amazonaws.com/manufacturing-service
+  repository: 763960054907.dkr.ecr.us-east-1.amazonaws.com/manufacturing-service
   tag: v1.0.0
   pullPolicy: Always
 
